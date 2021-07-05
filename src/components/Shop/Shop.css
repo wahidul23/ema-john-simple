@@ -1,8 +1,8 @@
-.shop-containter{
+.shared-cart-container{
     display:flex;
 }
 
-.products-containter{
+.products-container{
     width:70%;
     margin-left: 20px;
     margin-right:  5px;
